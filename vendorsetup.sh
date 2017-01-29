@@ -1,0 +1,3 @@
+add_lunch_combo XOS_athene-user
+add_lunch_combo XOS_athene-userdebug
+add_lunch_combo XOS_athene-eng
